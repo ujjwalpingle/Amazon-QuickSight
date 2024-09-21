@@ -1,6 +1,4 @@
-# Project #2: Visualize Data using Amazon QuickSight (Beginner)
-
-In this project, you'll learn how to create visualizations from a large dataset using Amazon S3 and Amazon QuickSight. We'll be working with a dataset of 50,000 best-selling products on Amazon.com.
+In this project, I have learn how to create visualizations from a large dataset using Amazon S3 and Amazon QuickSight. I have been working with a dataset of 50,000 best-selling products on Amazon.com.
 
 ## Step #1: Store the Dataset in Amazon S3
 1. Open the **Amazon S3** console and click **"Create Bucket."**
